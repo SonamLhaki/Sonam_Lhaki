@@ -25,14 +25,13 @@ title: About Me
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+## Sonam Lhaki
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _: "It always seems impossible until it's done" - Nelson Mandela_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+I’m someone who loves getting creative and trying new things. I enjoy spending my time painting, knitting, making paper crafts, and experimenting with different art projects. I also love cooking and often find myself trying out new viral recipes I discover online, especially when I’m bored at home. When I’m not creating or cooking, you’ll probably find me playing badminton or table tennis, or heading out on a mountain hike to enjoy nature and admire the beautiful views. 
 
 </div>
 
@@ -44,8 +43,8 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2026 – Present | 11 | The Royal Academy|
+| 2022 – 2027 | Higher Secondary | The Royal Academy |
 
 ## 🛠️ Skills
 
@@ -71,18 +70,17 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 ## 🌟 Interests
 
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
-- 📚 **Reading / Learning** — Brief description
-
+- 🔬 **Research Area 1** — Art, creativity & design
+- 🎨 **Creative Hobby** — Painting, knitting, paper crafts &         experimenting with DIY projects
+- 🏃 **Sports / Activity** — Badminton, table tennis & mountain hiking mainly because, I enjoy staying active and exploring the outdoors.
+- 📚 **Reading / Learning** — Learning new recipes, discovering creative techniques, and exploring new ideas and skills, romance, fantasy and adventurous books.
 <hr class="section-divider">
 
 ## 📬 Contact
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
-| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
-| :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
+| :fontawesome-brands-github: GitHub | [Sonamlhaki](https://github.com/yourusername) |
+| :fontawesome-brands-linkedin: LinkedIn | [sokï](https://linkedin.com/in/yourusername) |
+| :material-email: Email | [sonam.lhaki2022@academy.bt](mailto:your.email@example.com) |
+| :material-web: Website | [mywebsite.com](https://yourwebsite.com) |
