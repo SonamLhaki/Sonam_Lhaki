@@ -20,11 +20,11 @@ materials organized by topic.
 
 <div class="card-grid" markdown>
 
-<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1lJF64u4UmLNtrHdB5WT4IilpH4-UBSXz&sz=w800');" markdown>
+<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1lzkSlxdWCEU0nntFxcKOfIN4Ui6RrrhF&sz=w800');" markdown>
 
-### 🚀 Expectations
+### Inkscape
 
-A clear expectations and access plan draft for all user and core team member.
+documentation on Inkscape
 
 [:octicons-arrow-right-24: Read More](expectation.md)
 

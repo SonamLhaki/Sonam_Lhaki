@@ -15,12 +15,9 @@ Examples (File Formats): JPEG (.jpg), PNG (.png), GIF (.gif), TIFF (.tif), and P
 ### Vector Images
 Examples (File Formats): Scalable Vector Graphics (.svg), Adobe Illustrator (.ai), Encapsulated PostScript (.eps), and PDF (when created with vector data).
 
-### Link to download inkscape:
-https://inkscape.org/release/inkscape-1.4.4/?utm_source=chatgpt.com
-
+[Go here to download the website](https://inkscape.org/release/inkscape-1.4.4/)
 # Inkscape Interface and Tools
- 1. When you first open the software:
- ![Screen_Shot_1](https://drive.google.com/thumbnail?id=1Ficff2fmGJQlkd_ifh2UCDnElyWpPhum&sz=w800)
+ 1. When you first open the software you will see a tab like this. so, Go to " Time to draw " and then to "New Document" to enter the editor interface. 
+![Screen_Shot_2569-11-16_at_8.20.37_PM](https://drive.google.com/thumbnail?id=1Ba47CsNhBZjTfJvP4PsO_Eap_XTBBoqF&sz=w800)
 
-
-![Screen_Shot_2569-10-04_at_8.54.00_PM](https://drive.google.com/thumbnail?id=1Mk1Lq3HdILsoH-aPgtAd_Mg3uFFn5Pja&sz=w800)
+2. Below are the labeled features of the inkscape interface:

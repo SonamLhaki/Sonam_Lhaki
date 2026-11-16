@@ -152,6 +152,7 @@ nav:
       - Laser Documentation : documentation/lasercutter.md
       - Getting Started Guide: documentation/getting-started.md
       - Softwares : documentation/installation.md 
+      - Inkscape : documentation/Inkscape.md
       
   - Projects:
       - Overview: projects/index.md
